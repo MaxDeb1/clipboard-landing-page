@@ -1,5 +1,7 @@
 # Frontend Mentor - Clipboard landing page
 
+[Live site](https://maxdeb1.github.io/clipboard-landing-page/)
+
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
